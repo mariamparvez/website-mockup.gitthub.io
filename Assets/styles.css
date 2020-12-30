@@ -1,0 +1,174 @@
+ .co {
+ 	padding-top: 20px;
+ 	padding-bottom: 20px;
+}
+
+ .img_01 {
+ 	background: url('../Assets/img/cyan.jpg');
+ 	background-position:center;
+ 	background-size: cover;
+ 	background-repeat: no-repeat; 
+ 	height: 80vh;
+ }
+
+  .img_02 {
+ 	background: url('../Assets/img/brochure.jpg');
+ 	background-position:center;
+ 	background-size: cover;
+ 	background-repeat: no-repeat; 
+ 	height: 80vh;
+ }
+
+ .a {
+ 	background-color: lightseagreen;
+ 	padding-top: 20px;
+ 	padding-bottom: 20px;
+ 	color: white;
+ }
+
+.b {
+ 	background-color: mediumturquoise;
+ 	padding-top: 20px;
+ 	padding-bottom: 20px;
+ 	color: white;
+
+ }
+
+.c {
+ 	background-color: turquoise;
+ 	padding-top: 20px;
+ 	padding-bottom: 20px;
+ 	color: white;
+ }
+
+.n{
+ 	margin-bottom: 0px;
+
+ }
+
+ .gradient {
+ 	height: 150px;
+ 	background-image: linear-gradient(gainsboro,white);
+ 	margin-bottom: 20px;
+ }
+
+ .pp {
+ 	font-weight: lighter;
+ 	color: gray;
+ }
+
+.t{
+	margin: 20px;
+}
+
+ .t1 {
+ 	background-image: linear-gradient(darkcyan,lightseagreen) ;
+ 	color: white;
+ 	padding-top: 10px;
+ 	padding-bottom: 10px;
+ 	margin: 0px;
+ 	border-radius: 2px;
+ }
+
+ .t2 {
+ 	background-color: gainsboro;
+ 	color: navy;
+ 	padding-top: 10px;
+ 	margin: 0px;
+ 	border-radius: 2px;
+ 	font-size: 50px;
+ }
+
+  .t22 {
+ 	background-color: gainsboro;
+ 	color: navy;
+ 	padding-bottom: 10px;
+ 	margin: 0px;
+ 	border-radius: 2px;
+ }
+
+ .t3 {
+ 	background-image: linear-gradient(darkcyan,lightseagreen) ;
+ 	color: white;
+ 	padding-top: 20px;
+ 	padding-bottom: 20px;
+ 	margin: 0px;
+ 	border-radius: 2px;
+ }
+
+ul{
+	list-style-type: none;
+
+ }
+
+ svg {
+ 	width: 80px;
+ 	height: 80px;
+ 	color: black;
+ 	margin: 10px;
+ 	padding: 10px;
+ 	align-items: center
+ 	border: 1px solid rgba(0,0,0,.4);
+ }
+
+ .icons {
+ 	
+ 	height: 80px;
+ 	width: 80px;
+ 	color: 	darkcyan;
+ 	padding: 20px;
+ 	
+ }
+
+ .ico {
+ 	background-color: black;
+ 	padding: 10px;
+ }
+
+ .foot {
+ 	background-color:#041320;
+ }
+
+ .au {
+ 	color: white;
+ 	letter-spacing: .4px;
+ 	padding: 20px;
+ 	font-weight: lighter;
+ }
+
+.h {
+	color: teal;
+}
+
+.ctt {
+	color:silver;
+}
+
+.ct {
+	color:grey;
+}
+
+a {
+	color: teal;
+}
+
+.r1 {
+ 	color: black;
+ 	padding-top: 10px;
+ 	padding-bottom: 10px;
+ 	margin: 0px;
+ 	border-radius: 2px;
+ }
+
+ .imp {
+ 	height: 200px;
+ 	width: 200px;
+ 	border-radius: 100px; 
+ 	margin-bottom: 20px; 
+ }
+
+.active{
+	border-top: 3px solid teal;
+}
+
+
